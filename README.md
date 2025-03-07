@@ -258,5 +258,5 @@ With these impressive results, the research and development team has enough basi
 If you have any questions or need further information, feel free to reach out:
 
 - 📧 Email: [bachngocphu.work@gmail.com](mailto:bachngocphu.work@gmail.com)  
-- 💼 LinkedIn: [Bach Ngoc Phu](www.linkedin.com/in/bachngocphu)  
+- 💼 LinkedIn: [www.linkedin.com/in/bachngocphu](www.linkedin.com/in/bachngocphu)  
 
